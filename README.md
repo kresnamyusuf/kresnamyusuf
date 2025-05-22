@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 ![Kresnamyusuf](img/coding.gif)
 
+<h2 align="left">Play games with me</h2>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kresnamyusuf/kresnamyusuf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kresnamyusuf/kresnamyusuf/output/pacman-contribution-graph.svg">
