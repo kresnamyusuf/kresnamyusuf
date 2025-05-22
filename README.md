@@ -1,6 +1,7 @@
-## Hi there 👋
+![Kresnamyusuf](img/header.png)
 
-![Kresnamyusuf](img/coding.gif)
+- 🌱 I’m currently learning [**Flutter**](https://flutter.dev) Framework 👾
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 👾
 
 <!--
 **kresnamyusuf/kresnamyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Flutter** Framework 👾
-- 🌱 I’m currently learning **Laravel** Framework 👾
+![Kresnamyusuf](img/coding.gif)
